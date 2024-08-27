@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+
+@font-face {
+  font-family: 'Source Code Pro';
+  src:
+    local('Source Code Pro'),
+    url(public/fonts/SourceCodePro-Regular.ttf) format('truetype');
+}
